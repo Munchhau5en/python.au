@@ -1,7 +1,9 @@
 При прочтении документации меня заинтересовала часть с воспроизведением изображений.
 
 Я разобрался в коде и решил воспроизвести фотографию своей собаки
-![](https://github.com/Munchhau5en/python.au/raw/main/Nika.jpg
+
+![](https://github.com/Munchhau5en/python.au/raw/main/Nika.jpg)
+
 Код программы:
 
 ```python
