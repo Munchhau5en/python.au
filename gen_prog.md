@@ -73,15 +73,49 @@ matplotlib.pyplot.show()
 
 Ситуация с собакой произошла максимально грустная, так как у фотографии слишком хорошее качество и обработка шла со скоростью ~14 поколений в минуту.
 
+Результат на данный момент (2.5К поколений):
+![](https://github.com/Munchhau5en/python.au/raw/main/solution_2500.jpg)
+
+
 Обработка 20К поколений произошла бы спустя 24 часа непрерывной работы...
 Извините, но моему компьютеру нужно отдыхать :(
 
-Поэтому я чуть упростил себе задачу - нарисовал в пейнте два изображения - из 16 и 256 пикселей (Все следующие изображения будут в увеличенном формате)
+Поэтому я чуть упростил себе задачу - нарисовал в пейнте два изображения - из 16 (4х4) и 240 (16х15) пикселей (Все следующие изображения будут в увеличенном формате)
 
 Первое:
 
 ![](https://github.com/Munchhau5en/python.au/raw/main/something.jpg)
 
+Спустя 100 поколений:
+
+![](https://github.com/Munchhau5en/python.au/raw/main/1_100.jpg)
+
+500:
+
+![](https://github.com/Munchhau5en/python.au/raw/main/1_500.jpg)
+
+5000:
+
+![](https://github.com/Munchhau5en/python.au/raw/main/1_5000.jpg)
+
 Второе:
 
 ![](https://github.com/Munchhau5en/python.au/raw/main/something_1.jpg)
+
+
+Спустя 100 поколений:
+
+![](https://github.com/Munchhau5en/python.au/raw/main/2_100.jpg)
+
+500:
+
+![](https://github.com/Munchhau5en/python.au/raw/main/2_500.jpg)
+
+1000:
+
+![](https://github.com/Munchhau5en/python.au/raw/main/2_1000.jpg)
+
+5000:
+
+![](https://github.com/Munchhau5en/python.au/raw/main/2_5000.jpg)
+
