@@ -1,9 +1,7 @@
 При прочтении документации меня заинтересовала часть с воспроизведением изображений.
 
 Я разобрался в коде и решил воспроизвести фотографию своей собаки
-
-Программа работает долго, так что на сегодня только результат на 5000 поколении (Возможно, позже добавятся еще фотографии).
-
+![](https://github.com/Munchhau5en/python.au/raw/main/Nika.jpg
 Код программы:
 
 ```python
@@ -80,8 +78,8 @@ matplotlib.pyplot.show()
 
 Первое:
 
-![](https://github.com/Munchhau5en/python.au/raw/main/something.png)
+![](https://github.com/Munchhau5en/python.au/raw/main/something.jpg)
 
 Второе:
 
-![](https://github.com/Munchhau5en/python.au/raw/main/something_1.png)
+![](https://github.com/Munchhau5en/python.au/raw/main/something_1.jpg)
