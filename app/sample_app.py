@@ -1,4 +1,5 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, request
+import numexpr as ne
 
 app = Flask(__name__)
 
@@ -16,6 +17,24 @@ def about():
 @app.route('/random')
 def random():
     return render_template("random.html")
+
+
+@app.route('/calc', methods=['GET'])
+def game():
+    if request.method == 'GET':
+        name_param = request.args.get('name')
+
+    if name_param is None:
+        name_param = "0"
+
+    else:
+        name_param = ne.evaluate(request.args.get('name'))
+
+    return render_template(
+        'calc.html',
+        name=name_param,
+        method=request.method
+    )
 
 
 @app.context_processor
