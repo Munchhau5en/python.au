@@ -2,7 +2,7 @@
 
 Я разобрался в коде и решил воспроизвести фотографию своей собаки
 
-![](https://github.com/Munchhau5en/python.au/raw/main/gen_prog/Nika.jpg)
+![](https://github.com/Munchhau5en/python.au/raw/main/gen_prog/picture.jpg)
 
 Код программы:
 
