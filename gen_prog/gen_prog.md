@@ -2,7 +2,7 @@
 
 Я разобрался в коде и решил воспроизвести фотографию своей собаки
 
-![](https://github.com/Munchhau5en/python.au/raw/main/Nika.jpg)
+![](https://github.com/Munchhau5en/python.au/raw/main/gen_prog/Nika.jpg)
 
 Код программы:
 
@@ -74,7 +74,7 @@ matplotlib.pyplot.show()
 Ситуация с собакой произошла максимально грустная, так как у фотографии слишком хорошее качество и обработка шла со скоростью ~14 поколений в минуту.
 
 Результат на данный момент (2.5К поколений):
-![](https://github.com/Munchhau5en/python.au/raw/main/solution_2500.png)
+![](https://github.com/Munchhau5en/python.au/raw/main/gen_prog/solution_2500.png)
 
 
 Обработка 20К поколений произошла бы спустя 24 часа непрерывной работы...
@@ -84,38 +84,38 @@ matplotlib.pyplot.show()
 
 Первое:
 
-![](https://github.com/Munchhau5en/python.au/raw/main/something.jpg)
+![](https://github.com/Munchhau5en/python.au/raw/main/gen_prog/something.jpg)
 
 Спустя 100 поколений:
 
-![](https://github.com/Munchhau5en/python.au/raw/main/1_100.jpg)
+![](https://github.com/Munchhau5en/python.au/raw/main/gen_prog/1_100.jpg)
 
 500:
 
-![](https://github.com/Munchhau5en/python.au/raw/main/1_500.jpg)
+![](https://github.com/Munchhau5en/python.au/raw/main/gen_prog/1_500.jpg)
 
 5000:
 
-![](https://github.com/Munchhau5en/python.au/raw/main/1_5000.jpg)
+![](https://github.com/Munchhau5en/python.au/raw/main/gen_prog/1_5000.jpg)
 
 Второе:
 
-![](https://github.com/Munchhau5en/python.au/raw/main/something_1.jpg)
+![](https://github.com/Munchhau5en/python.au/raw/main/gen_prog/something_1.jpg)
 
 
 Спустя 100 поколений:
 
-![](https://github.com/Munchhau5en/python.au/raw/main/2_100.jpg)
+![](https://github.com/Munchhau5en/python.au/raw/main/gen_prog/2_100.jpg)
 
 500:
 
-![](https://github.com/Munchhau5en/python.au/raw/main/2_500.jpg)
+![](https://github.com/Munchhau5en/python.au/raw/main/gen_prog/2_500.jpg)
 
 1000:
 
-![](https://github.com/Munchhau5en/python.au/raw/main/2_1000.jpg)
+![](https://github.com/Munchhau5en/python.au/raw/main/gen_prog/2_1000.jpg)
 
 5000:
 
-![](https://github.com/Munchhau5en/python.au/raw/main/2_5000.jpg)
+![](https://github.com/Munchhau5en/python.au/raw/main/gen_prog/2_5000.jpg)
 
