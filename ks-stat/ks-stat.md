@@ -38,8 +38,8 @@ KstestResult(statistic=0.09182207462355452, pvalue=0.3468196238800587)
 
 Картинки:
 
-![](https://github.com/Munchhau5en/python.au/raw/main/Figure_1.png)
-![](https://github.com/Munchhau5en/python.au/raw/main/Figure_2.png)
+![](https://github.com/Munchhau5en/python.au/raw/main/ks-stat/figure_1.png)
+![](https://github.com/Munchhau5en/python.au/raw/main/ks-stat/figure_2.png)
 
 Данные...
 ```
